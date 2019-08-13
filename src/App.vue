@@ -2,21 +2,21 @@
     <div id="app">
         <!--<img alt="Vue logo" src="./assets/logo.png">-->
         <button v-on:click="randomCard">Draw Card</button>
-        <HelloWorld :currentCard="currentCard" />
+        <Card v-bind:currentCard="currentCard" />
     </div>
 </template>
 
 <script>
-    import HelloWorld from './components/HelloWorld.vue'
+    import Card from './components/Card.vue'
 
     export default {
         name: 'app',
         components: {
-            HelloWorld
+            Card
         },
         methods: {
             randomCard() {
-                this.currentCard = Math.floor((Math.random() * 59) + 1);
+                this.currentCard = Math.floor((Math.random() * 2)); // psuedo random int 0-58
                 localStorage.setItem('currentCard', this.currentCard);
             }
         },
