@@ -1,8 +1,8 @@
 <template>
     <div id="app">
         <!--<img alt="Vue logo" src="./assets/logo.png">-->
-        <button>New Card</button>
-        <HelloWorld msg="Welcome to Your Vue.js App"/>
+        <button v-on:click="randomCard">Draw Card</button>
+        <HelloWorld :currentCard="currentCard" />
     </div>
 </template>
 
@@ -16,12 +16,13 @@
         },
         methods: {
             randomCard() {
-                return Math.floor((Math.random() * 59) + 1);
+                this.currentCard = Math.floor((Math.random() * 59) + 1);
+                localStorage.setItem('currentCard', this.currentCard);
             }
         },
         data () {
             return {
-                currentCard: 1
+                currentCard: localStorage.getItem("currentCard")
             }
         }
     }
