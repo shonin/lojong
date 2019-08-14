@@ -1,11 +1,10 @@
 <template>
     <div class="hello">
-        <h1>{{ currentCard+1 }}</h1>
+        <h1>{{ getCardData(currentCard).cardNumber }}</h1>
         <h1>{{ getCardData(currentCard).title }}</h1>
         <p><i>Section: {{ getCardData(currentCard).section }}</i></p>
-        <textarea cols=80 rows=30>
-          {{ getCardDetail(currentCard) }}
-        </textarea>
+        <label for="detail">Notes:</label>
+        <textarea id="detail" v-model="detail" cols=70 rows=30></textarea>
     </div>
 </template>
 
@@ -17,7 +16,7 @@
         props: ['currentCard'],
         methods: {
           getCardData(currentCard) {
-            return cardData.length >= this.currentCard ? cardData[this.currentCard] : cardData[0];
+            return cardData.length >= currentCard ? cardData[currentCard] : cardData[0];
           },
           getCardDetail(currentCard) {
             if(localStorage.getItem("lojongDetail"+currentCard)) {
@@ -26,12 +25,26 @@
               return this.getCardData(currentCard).detail;
             }
           }
+        },
+        data () {
+          return {
+            detail: null
+          }
+        },
+        watch: {
+            currentCard: {
+                immediate: true,
+                handler() {
+                    this.detail = this.getCardDetail(this.currentCard);
+                }
+            },
+            detail: {
+                immediate: true,
+                handler(value) {
+                    localStorage.setItem("lojongDetail"+this.currentCard, value);
+                }
+            }
         }
-        // data () {
-        //   return {
-        //     cardData: cardData.length >= this.currentCard ? cardData[this.currentCard] : cardData[0]
-        //   }
-        // }
     }
 </script>
 
@@ -53,5 +66,13 @@
 
     a {
         color: #42b983;
+    }
+
+    textarea {
+        font-size: medium;
+        max-width: 100%;
+    }
+    label {
+        display: block;
     }
 </style>
