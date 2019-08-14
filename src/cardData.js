@@ -3,9 +3,16 @@ export default [
     cardNumber: 1,
     title: "First, train in the preliminaries.",
     section: "The preliminaries, which are a basis for dharma practice",
-    detail: "Maintain an awareness of the four reminders: 1) the preciousness of \
-      human life and the particular good fortune of life in an environment in which \
-      you can hear the buddhadharma..."
+    detail: "Maintain an awareness of the four reminders: \n" +
+      "\n" +
+      "1) The preciousness of human life and the particular good fortune of life in an environment in which you can hear the buddhadharma.\n" +
+      "\n" +
+      "2) The reality of death, that is comes suddenly and without warning. \n" +
+      "\n" +
+      "3) The entrapment of karma--that whatever you do, whether virtuous or not, only further entraps you in the chain of cause and effect.\n" +
+      "\n" +
+      "4) The intensity and inevitability of suffering for yourself and for all sentient beings.\n\n" +
+        "This is called taking an attitude of the four reminders. "
   },
   {
     cardNumber: 2,

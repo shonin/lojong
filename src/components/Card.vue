@@ -1,6 +1,6 @@
 <template>
     <div class="hello">
-        <h1>{{ getCardData(currentCard).cardNumber }}</h1>
+        <h3>{{ getCardData(currentCard).cardNumber }}</h3>
         <h1>{{ getCardData(currentCard).title }}</h1>
         <p><i>Section: {{ getCardData(currentCard).section }}</i></p>
         <label for="detail">Notes:</label>
