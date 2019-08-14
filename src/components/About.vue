@@ -20,7 +20,7 @@
                 can draw a new card every morning and check in on it throughout the day.
             </li>
             <li>
-                The translations of each saying come from Chögyam Trungpa Rinpoche's book "Training the Mind".
+                The translations of each slogan come from Chögyam Trungpa Rinpoche's book "Training the Mind".
             </li>
             <li>
                 The pre-populated notes in each section are sometimes excerpts or paraphrases from that same book.
