@@ -1,9 +1,8 @@
 <template>
     <div class="hello">
         <h3>{{ getCardData(currentCard).cardNumber }}</h3>
+        <p><i>{{ getCardData(currentCard).section }}</i></p>
         <h1>{{ getCardData(currentCard).title }}</h1>
-        <p><i>Section: {{ getCardData(currentCard).section }}</i></p>
-        <label for="detail">Notes:</label>
         <textarea id="detail" v-model="detail" cols=70 rows=30></textarea>
     </div>
 </template>
@@ -71,6 +70,8 @@
     textarea {
         font-size: medium;
         max-width: 100%;
+        color: #fff;
+        background-color: #333;
     }
     label {
         display: block;

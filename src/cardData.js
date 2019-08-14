@@ -12,19 +12,29 @@ export default [
       "3) The entrapment of karma--that whatever you do, whether virtuous or not, only further entraps you in the chain of cause and effect.\n" +
       "\n" +
       "4) The intensity and inevitability of suffering for yourself and for all sentient beings.\n\n" +
-        "This is called taking an attitude of the four reminders. "
+        "This is called taking an attitude of the four reminders. \n\n" +
+        "The starting point of bodhichitta practice is realizing that others could actually be more important than ourselves."
   },
   {
     cardNumber: 2,
     title: "Regard all dharmas as dreams.",
     section: "Ultimate bodhichitta slogans",
-    detail: "No eyes, no ears, no nose, no tongue, no body, no mind..."
+    detail: "No eyes, no ears, no nose, no tongue, no body, no mind, no sight no sound no smell no taste no touch no " +
+        "object of mind no realm of sight no realm of mind consciousness... \n\n" +
+        "\"Regard whatever occurs as a phantom. Nothing ever happens. But because nothing ever happens, everything happens.\"\n\n" +
+        "\"Although you might think that things are very solid, the way you perceive them is soft and dreamlike.\""
   },
   {
     cardNumber: 3,
     title: "Examine the nature of unborn awareness.",
     section: "Ultimate bodhichitta slogans",
-    detail: ""
+    detail: "\"The reason our mind is known as unborn awareness is that we have no idea of its history. We have no idea " +
+        "where this mind, our crazy mind, began in the beginning.\"\n\n" +
+        "\"Mind is unborn. But at the same time, it is awareness, because you still perceive things. There is awareness " +
+        "and clarity. Therefore, you should contemplate that by seeing who is actually perceiving dharmas as dreams\"\n\n" +
+        "\"If you look further and further, at your mind's root, its base, you will find that it has no color and no" +
+        "shape. Your mind is, basically speaking, somewhat blank. There is nothing to it.\"\n\n" +
+        "\"If you look at why you are mindful, beyond what you are mindful of, you begin to find that there is no root.\""
   },
   {
     cardNumber: 4,
