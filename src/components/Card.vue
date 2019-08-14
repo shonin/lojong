@@ -18,8 +18,8 @@
             return cardData.length >= currentCard ? cardData[currentCard] : cardData[0];
           },
           getCardDetail(currentCard) {
-            if(localStorage.getItem("lojongDetail"+currentCard)) {
-              return localStorage.getItem("lojongDetail"+currentCard);
+            if(localStorage.getItem("lojongDetailDev"+currentCard)) {
+              return localStorage.getItem("lojongDetailDev"+currentCard);
             } else {
               return this.getCardData(currentCard).detail;
             }
@@ -40,7 +40,7 @@
             detail: {
                 immediate: true,
                 handler(value) {
-                    localStorage.setItem("lojongDetail"+this.currentCard, value);
+                    localStorage.setItem("lojongDetailDev"+this.currentCard, value);
                 }
             }
         }

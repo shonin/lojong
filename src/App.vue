@@ -28,19 +28,19 @@
         methods: {
             randomCard() {
                 this.currentCard = Math.floor((Math.random() * this.cardLimit)); // psuedo random int 0-58
-                localStorage.setItem('currentCard', this.currentCard);
+                localStorage.setItem('currentCardDev', this.currentCard);
             },
             nextCard() {
                 console.log(this.currentCard, this.cardLimit);
                 if (this.currentCard < this.cardLimit-1) {
                     this.currentCard += 1;
-                    localStorage.setItem('currentCard', this.currentCard);
+                    localStorage.setItem('currentCardDev', this.currentCard);
                 }
             },
             prevCard() {
                 if (this.currentCard > 0) {
                     this.currentCard -= 1;
-                    localStorage.setItem('currentCard', this.currentCard);
+                    localStorage.setItem('currentCardDev', this.currentCard);
                 }
             },
             toggleAbout() {
@@ -49,7 +49,7 @@
         },
         data () {
             return {
-                currentCard: localStorage.getItem("currentCard"),
+                currentCard: localStorage.getItem("currentCardDev"),
                 cardOn: true,
                 cardLimit: 7
             }
