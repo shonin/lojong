@@ -52,7 +52,7 @@
             return {
                 currentCard: localStorage.getItem("currentCardDev") ? localStorage.getItem("currentCardDev") : 0,
                 cardOn: true,
-                cardLimit: 7
+                cardLimit: 16
             }
         }
     }
