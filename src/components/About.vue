@@ -7,6 +7,12 @@
         </p>
         <ul>
             <li>
+                <i>
+                Warning: this application is still in development. When it is fully finished the notes you have saved
+                will be replaced by the notes I'm taking as I read "Training the Mind."
+                </i>
+            </li>
+            <li>
                 All changes you make to the notes of each card will persist in your browser's local storage. There is no
                 save button, this is done automatically.
             </li>
