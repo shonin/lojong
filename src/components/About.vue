@@ -3,7 +3,7 @@
         <h1>About / Help</h1>
         <p>
             Thanks for trying out my Lojong study app. I made it to help myself and fellow sangha members study
-            the sayings of Lojong. Here's a few things you should know:
+            the slogans of Lojong. Here's a few things you should know:
         </p>
         <ul>
             <li>
