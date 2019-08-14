@@ -60,5 +60,59 @@ export default [
     section: "Relative bodhichitta slogans",
     detail: ""
   },
+  {
+    cardNumber: 8,
+    title: "Three objects, three poisons, and three seeds of virtue.",
+    section: "Relative bodhichitta slogans",
+    detail: ""
+  },
+  {
+    cardNumber: 9,
+    title: "In all activities, train with slogans.",
+    section: "Relative bodhichitta slogans",
+    detail: ""
+  },
+  {
+    cardNumber: 10,
+    title: "Begin the sequence of sending and taking with yourself.",
+    section: "Relative bodhichitta slogans",
+    detail: ""
+  },
+  {
+    cardNumber: 11,
+    title: "When the world is filled with evil, transform all mishaps into the path of bodhi.",
+    section: "The paramita of patience",
+    detail: ""
+  },
+  {
+    cardNumber: 12,
+    title: "Drive all blames into one.",
+    section: "The paramita of patience",
+    detail: ""
+  },
+  {
+    cardNumber: 13,
+    title: "Be grateful to everyone.",
+    section: "The paramita of patience",
+    detail: ""
+  },
+  {
+    cardNumber: 14,
+    title: "Seeing confusion as the four kayas is unsurpassable shunyata protection.",
+    section: "The paramita of patience",
+    detail: ""
+  },
+  {
+    cardNumber: 15,
+    title: "Four practices are the best of methods.",
+    section: "The paramita of patience",
+    detail: ""
+  },
+  {
+    cardNumber: 16,
+    title: "Whatever you meet unexpectedly, join with meditation.",
+    section: "The paramita of patience",
+    detail: ""
+  },
 
 ]

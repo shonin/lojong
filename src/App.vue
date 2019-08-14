@@ -8,6 +8,7 @@
             <button v-on:click="prevCard">&larr;</button>
             <button v-on:click="randomCard">Random</button>
             <button v-on:click="nextCard">&rarr;</button>
+            <p><i>Warning: this application is still in development. When it is fully finished the notes you have saved will disappear</i></p>
             <Card v-bind:currentCard="currentCard" />
         </div>
         <div id="about" v-else>
