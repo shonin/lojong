@@ -49,7 +49,7 @@
         },
         data () {
             return {
-                currentCard: localStorage.getItem("currentCardDev"),
+                currentCard: localStorage.getItem("currentCardDev").length ? localStorage.getItem("currentCardDev") : 0,
                 cardOn: true,
                 cardLimit: 7
             }
