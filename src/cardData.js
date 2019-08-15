@@ -50,7 +50,7 @@ export default [
         "going to be fine.\"\n\n" +
         "\"The whole point of this slogan is that antidotes of any kind, or for that matter, occupational therapies of " +
         "any kind, are not regarded as appropriate things to do. We are not particularly seeking enlightenment or the " +
-        "simple experience of tranquillity--we are trying to get over our deception."
+        "simple experience of tranquillity--we are trying to get over our deception.\""
   },
   {
     cardNumber: 5,
