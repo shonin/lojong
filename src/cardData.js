@@ -40,7 +40,17 @@ export default [
     cardNumber: 4,
     title: "Self-liberate even the antidote.",
     section: "Ultimate bodhichitta slogans",
-    detail: ""
+    detail: "\"The antidote is the realization that our discursive thoughts have no origin. That realizations helps a lot; " +
+        "it becomes an antidote or a helpful suggestion. But we need to go beyond that antidote. We should not hang " +
+        "on to the so-whatness of it, the naivete of it.\"\n\n" +
+        "\"All is shunyata, so who cares? You can murder, you can meditate, you can perform art, you can do all kinds " +
+        "of things--everything is meditation, whatever you do. But there is something very tricky about the whole approach. " +
+        "That dwelling on emptiness is a misinterpretation called the 'poison of shunyaya.'\"\n\n" +
+        "\"Antidotes are any notion that we can do what we want and that as long as we are meditative everything is " +
+        "going to be fine.\"\n\n" +
+        "\"The whole point of this slogan is that antidotes of any kind, or for that matter, occupational therapies of " +
+        "any kind, are not regarded as appropriate things to do. We are not particularly seeking enlightenment or the " +
+        "simple experience of tranquillity--we are trying to get over our deception."
   },
   {
     cardNumber: 5,
