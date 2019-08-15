@@ -9,7 +9,8 @@
             <li>
                 <i>
                 Warning: this application is still in development. When it is fully finished the notes you have saved
-                will be replaced by the notes I'm taking as I read "Training the Mind."
+                will be replaced by the notes I'm taking as I read "Training the Mind." At the current rate this will be around
+                    October 15, 2019.
                 </i>
             </li>
             <li>
