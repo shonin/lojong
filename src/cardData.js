@@ -56,7 +56,27 @@ export default [
     cardNumber: 5,
     title: "Rest in the nature of alaya, the essence.",
     section: "Ultimate bodhichitta slogans",
-    detail: ""
+    detail: "Alaya can be translated as 'abode', as in Himalaya: abode of snow.\n\n" +
+        "\"Transcend the seven types of consciousness, and rest in the eighth consciousness, alaya.\"\n\n" +
+        "\"The first six types of consciousness are the sensory perceptions... The seventh type of consciousness, " +
+        "nuisance mind, is a kind of conglomeration which puts energy into all of that... the fundamental discursive " +
+        "process which brings about the other six.\"\n\n" +
+        "Nuisance could also be translated from Tibetan as 'neurosis.'\n\n" +
+        "\"...free oneself from that sevenfold mind and rest in simplicity and in clear nondiscriminating mind.\"\n\n" +
+        "The senses are a production of the mind, recognize that and come back to alaya where they begin. Rest in the " +
+        "needlessness of those productions. \"Rest where the orders and information come from\"\n\n" +
+        "\"Basic wakefulness, sugatagarbha, is beyond alaya... it is indestructible--the ancestor, or parent, of alaya.\"\n\n" +
+        "Projector analogy: the screen is the phenomenal world; we project ourselves onto it. Film: the fickleness of " +
+        "the mind, constantly changing frames. The moving object projected onto the screen is mechanically produced by " +
+        "the machinery of the projector, lots of mechanics goes into making it a continuous picture. Things are shifting " +
+        "completely every moment. \"Behind the whole thing is the bulb, which projects everything onto the screen. That " +
+        "bulb is the cause of the whole thing... Resting in the nature of alaya is like resting in the nature of that bulb..." +
+        "The bulb does not give in to the fickleness of the rest of the machine. It has no concern with how the screen is " +
+        "coming along or how the image is coming through.\"\n\n" +
+        "For sitting meditation, \"you have to work with the [bulb]. You take the [bulb] out of the projector--there's no " +
+        "monkey business with your projector--and you just screw that bulb onto your regular ol-fashioned fixture and " +
+        "look at it. That is the self-liberating alaya\"\n\n" +
+        "\"We are not trying to grasp the buddha nature immediately at this point\""
   },
   {
     cardNumber: 6,
