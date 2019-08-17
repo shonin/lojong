@@ -82,7 +82,21 @@ export default [
     cardNumber: 6,
     title: "In postmeditation, be a child of illusion",
     section: "Ultimate bodhichitta slogans",
-    detail: ""
+    detail: "\"...begin to see that the games going on are not even big games but simply illusory ones.\"\n\n" +
+        "\"Illusion does not mean haziness, confusion, or mirage. Being a child of illusion means that you continue " +
+        "what you have experienced in your sitting practice [(resting in the nature of alaya)] into postmeditation " +
+        "experience.\"\n\n" +
+        "\"You realize that after you finish sitting practice, you do not have to solidify phenomena. Instead, you can " +
+        "continue your practice and develop some kind of ongoing awareness.\"\n\n" +
+        "\"It is like swimming: you swim along in your phenomenal world. You can't just float, you have to swim; " +
+        "you have to use your limbs. That process of using your limbs is the basic stroke of mindfulness and awareness\"\n\n" +
+        "\"It is 'first thought, best thought.' When you look at things, you find that they are soft and that they " +
+        "bounce back on you all the time. It's not particularly intellectual.\"\n\n" +
+        "\"The point is to treat yourself better. If you want to take a vacation from your practice, you can do so and " +
+        "still remain a child of illusion. Things just keep on beeping at you all the time. It's very lucid. It's " +
+        "almost whimsical.\"\n\n" +
+        "\"Being a child of illusion is very simple. It is being willing to realize the simplicity of phenomenal play " +
+        "and to use that simplicity  as a part of awareness and mindfulness practice.\""
   },
   {
     cardNumber: 7,
