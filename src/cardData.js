@@ -102,19 +102,65 @@ export default [
     cardNumber: 7,
     title: "Sending and taking should be practiced alternately. These two should ride the breath.",
     section: "Relative bodhichitta slogans",
-    detail: ""
+    detail: "The practice of tonglen is quite straightforward; it is an actual sitting meditation practice. You give away your happiness, your pleasure, anything that feels good. All of that goes out with the outbreath. As you breathe in, you breathe in any resentments and problems, anything that feels bad. The whole point is to remove territoriality altogether.\n" +
+        "\n" +
+        "Sometimes we feel terrible that we are breathing in poison which might kill us and at the same time breathing out whatever little goodness we have. It seems to be completely impractical. But once we begin to break through, we realize that we have even more goodness and we also have more things to breathe in. So the whole process becomes somewhat balanced.\n" +
+        "\n" +
+        "In tonglen we are aspiring to take on the suffering of other sentient beings. We mean that literally: we are actually willing to take that on. As such, it can have real effects, both on the practitioner himself and on others.\n" +
+        "\n" +
+        "...tonglen should not be used as any kind of antidote. You do not do it and then wait for the effect—you just do it and drop it. It doesn’t matter whether it works or not: if it works, you breathe that out; if it does not work, you breathe that in. So you do not possess anything. That is the point.\n" +
+        "\n" +
+        "The main point is to develop the psychological attitude of exchanging oneself for others:\n" +
+        "\n" +
+        "All along there have been people who have done things for you. You should think of those situations and work them into your tonglen practice. As your breath goes out, you give them the best of what is yours, in order to repay their kindness. In order to promote goodness in the world, you give out everything good, the best that you have, and you breathe in other people’s problems, their misery, their torment. You take in their pain on their behalf.\n" +
+        "\n" +
+        "We can be shock absorbers of other people’s pain all the time.\n" +
+        "\n" +
+        "When you begin to do tonglen practice, you begin to think of the goodness that you can give out, what you can give to others.\n" +
+        "\n" +
+        "I would like to say quite bluntly that it is very important for you to take tonglen practice quite seriously... The main point is actually to do it properly and thoroughly. Beyond that, it is important to take delight that you are in a position to do something which most other humans never do at all. The problem with most people is that they are always trying to give out the bad and take in the good. That has been the problem of society in general and the world altogether. But now we are on the mahayana path and the logic is reversed.\n" +
+        "\n" +
+        "Start with what is immediate. Just this. This. You should feel that the whole thing is loose. Nothing is really attached to you or anchored to you; everything is detachable. When you let go, it is all gone. When things come back to you, they too are unanchored, from an outsider’s point of view. They come to you, and you go out to them.\n" +
+        "\n" +
+        "In tonglen practice, we replace the mindfulness of the breath that doesn’t have any contents with the mindfulness of the breath that does. The contents are the emotional, discursive thoughts which are being given the reference point of people’s pain and pleasure. So you are supposed to actually be working hard for the sake of other people. You are supposed to be helping people. If somebody is bleeding in front of you, you can’t just stand there holding the bandages—you are supposed to run over and put bandages on him, for goodness’sake! You just do it. And then you come back and sit down and watch to see who else might need bandages. It is as simple as that. It is the first-aid approach. People need help. So we have to wake up a little bit more. We have to be careful that we don’t just regard this as another daydream or concept. We have to make it very literal and very ordinary. Just breathe out and in. It is very literal, very straightforward.\n" +
+        "\n" +
+        "You breathe out good and breathe in bad. It is very simple and very literal.\n" +
+        "\n" +
+        "You don’t practice tonglen and then wait for the effect. You just do it and then drop it. You don’t look for results. Whether it works or not, you just do it and drop it, do it and drop it. If it doesn’t work, you take in, and if it works, you give out. So you do not possess anything. That is the whole idea. When anything comes out well, you give it away; if anything does not work out, you take it in.\n" +
+        "\n" +
+        "It is a very, very simple-minded approach. The practice is very primitive, in fact, the most primitive of all Buddhist practices.\n" +
+        "\n" +
+        "Make it very literal and very simple. We don’t want to make this into a revolutionary sort of imaginary, mind-oriented social work approach or psychological approach.\n" +
+        "\n" +
+        "And we have to be very literal with the technique. It has already been worked on by generations of people in the past, and it has proven to be true. So we can afford to be literal. We don’t have to research it any further. Instead we could be quite faithful to the practice as it is and just do it for a while.\n" +
+        "\n" +
+        "If we begin to get hurt by being genuine, that is good. That is the level at which we are capable of exchanging ourselves for others.\n" +
+        "\n" +
+        "We begin to feel that because we are doing such genuine, honest work we would like to invite others. It is not so much that we only want to give out our pleasure to others and bring in their pain. There is more to it than that. We want to give our genuineness out to others and we want to invite their hypocrisy into us. That is much more than just exchanging pain for pleasure. It is the greatest way of exchanging ourselves for others, and it is needed in the world very, very badly.\n" +
+        "\n" +
+        "You see, you have been so unreasonable all along that now, in order to make yourself a reasonable person, you have to overdo the whole thing slightly. By doing so, you begin to realize how to be a decent person. That is called relative bodhichitta. At this point, it is important to have that particular kind of experience, it is important to understand your unreasonability."
   },
   {
     cardNumber: 8,
     title: "Three objects, three poisons, and three seeds of virtue.",
     section: "Relative bodhichitta slogans",
-    detail: ""
+    detail: "The three objects are friends, enemies, and neutrals. The three poisons are passion, aggression, and ignorance or delusion. And the three seeds of virtue are the absence of passion, aggression, and ignorance. The practice of this slogan is to take the passion, aggression, and delusion of others upon ourselves so that they may be free and undefiled.\n" +
+        "\n" +
+        "We take upon ourselves the aggression of our enemies, the passion of our friends, and the indifference of the neutrals.\n" +
+        "\n" +
+        "Whenever any of the three poisons happens in your life, you should do the sending and taking practice. You just look at your passion, your aggression, and your delusion—you do not regard them as a problem or as a promise. Instead, when you are in a state of aggression, you say: “May this aggression be a working base for me. May I learn to hold my aggression to myself, and may all sentient beings thereby attain freedom from aggression.”Or: “May this passion be mine. Because it belongs to me by virtue of my holding on to it, therefore may others be free of such passion.”For indifference, you do the same thing. The purpose of doing that is that when you begin to hold the three poisons as yours, when you possess them fully and completely, when you take charge of them fully, you will find, interestingly enough, that the logic is reversed. If you have no object of aggression, you cannot hold your own aggression purely by yourself. If you have no object of passion, you cannot hold your passion yourself. And in the same way, you cannot hold on to your ignorance either. By holding your poison, you let go of the object, or the intent, of your poison. You see, what usually happens is that you have objects of the three poisons. When you have an object of aggression, for example, you feel angry toward it—right? But if your anger is not directed toward something, the object of aggression falls apart. It is impossible to have an object of anger, because the anger belongs to you rather than to its object. You give your compassion to the object so that it doesn’t provoke your anger—then what are you angry with? You find yourself just hanging out there, with no one to project onto. Therefore, you can cut the root of the three poisons by dealing with others rather than by dealing with yourself. So an interesting twist takes place."
   },
   {
     cardNumber: 9,
     title: "In all activities, train with slogans.",
     section: "Relative bodhichitta slogans",
-    detail: ""
+    detail: "The point is to catch the first thought.\n" +
+        "\n" +
+        "In this case, whenever you feel that quality of me-ness, whenever you feel “I”—and maybe “am” as well—then you should think of these two sayings: [1] May I receive all evils; may my virtues go to others. [2] Profit and victory to others; loss and defeat to myself.3\n" +
+        "\n" +
+        "The complete translation of these sayings reads: [1] May their evil deeds ripen in me. May all my virtue without exception ripen in them. [2] I offer all my profit and gain to sentient beings, those honorable ones; I will take on all loss and defeat. [3] May all the evil deeds and suffering of sentient beings ripen in me, and all my virtue and happiness ripen in sentient beings.\n" +
+        "\n" +
+        "It doesn’t have to be verbalized, but it is a thought process: whenever you have a sense of yuckiness, you make it your property; whenever you have a sense of vision or upliftedness, you give it to others."
   },
   {
     cardNumber: 10,
