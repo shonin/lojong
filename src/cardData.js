@@ -166,31 +166,60 @@ export default [
     cardNumber: 10,
     title: "Begin the sequence of sending and taking with yourself.",
     section: "Relative bodhichitta slogans",
-    detail: ""
+    detail: "\"...you begin to realize that anything connected with the demands of wanting and not wanting is constantly involved with the desire to possess and not to give out."
   },
   {
     cardNumber: 11,
     title: "When the world is filled with evil, transform all mishaps into the path of bodhi.",
     section: "The paramita of patience",
-    detail: ""
+    detail: "\"Bodhi\" meaning awakening." +
+        "\n\n" +
+        "\"Having already experienced the possibilities of absolute and relative bodhichitta, and practice sending and " +
+        "taking, you should also begin to build up confidence and joy in your own richness. That richness is the essence of generosity. " +
+        "It is the sense of resourcefulness, that you can deal with whatever is available around you and not feel poverty stricken.\""
   },
   {
     cardNumber: 12,
     title: "Drive all blames into one.",
     section: "The paramita of patience",
-    detail: ""
+    detail: "\"Drive all blames into one means that all the problems and complications that exist around our practice," +
+        "realization, and understanding are not somebody else's fault. All the blame always starts with ourselves.\"" +
+        "\n\n" +
+        "\"...we could blame an infinite variety of things. But it is we who are not letting go, not developing" +
+        "enough warmth and sympathy--which makes us problematic. So we cannot blame anybody.\"" +
+        "\n\n" +
+        "\"This slogan applies whenever we complain about anything, even that our coffee is cold or the bathroom is " +
+        "dirty. It goes very far. Everything is due to... ego holding, ego fixation... We constantly provide the ideal target." +
+        "We get hit, but nobody means to hit us--we are actually inviting the bullets.\"" +
+        "\n\n" +
+        "\"Even though somebody else has made a terrible boo-boo and blamed it on you, you should take the blame yourself. In terms of power, it is a much simpler and more direct way of controlling the situation. In addition, it is most direct way of simplifying complicated neuroses into one point. Also, if you look for volunteers around you to take the blame, there will be no volunteers other than yourself. By taking that particular blame on yourself, you reduce the neurosis that’s happening around you.\""
   },
   {
     cardNumber: 13,
     title: "Be grateful to everyone.",
     section: "The paramita of patience",
-    detail: ""
+    detail: "\"A more literal translation of this slogan is: Contemplate the great kindness of everyone.\"" +
+        "\n\n" +
+        "\"This slogan also is dealing with kündzop, or conventional reality. That is to say, without this world we cannot attain enlightenment, there would be no journey. By rejecting the world, we would be rejecting the ground and rejecting the path. All our past history and all our neurosis is related with others in some sense. All of our experiences are based on others, basically.\"\n" +
+        "\n" +
+        "\"Without your help I would not have any way to work with my journey at all. That is a very, very powerful thing. In fact, one of the interesting sayings of Lang-ri Thangpa, one of the Kadampa teachers, was: “I realize that all mistakes belong to me and all virtues belong to others, so I cannot really blame anybody except myself. There is a little phrase which might be good to memorize. In Tibet we used to stick it on our door handles and things like that. The saying goes: “Profit and victory to others; loss and defeat to myself.” That sounds terribly self-flagellating if you look at it the wrong way.\n" +
+        "\n" +
+        "These statements are not based on guilt or punishment (must break out of catholic original sin mentality)" +
+        "\n\nWithout others we would have no chance to develop beyond ego." +
+        "\n\n" +
+        "Do not ask to be hurt, that's no good. Just know that when you are hurt, this slogan applies."
   },
   {
     cardNumber: 14,
     title: "Seeing confusion as the four kayas is unsurpassable shunyata protection.",
     section: "The paramita of patience",
-    detail: ""
+    detail: "Shunyata: emptiness" +
+        "\n\n" +
+        "The four kayas: dharmakaya, sambhogakaya, nirmanakaya, svabhavikakaya" +
+        "\n\n" +
+        "Dharmakaya: uncertain, bewildered. Strategies are not yet formed, planning is not completely organized--it is just a sense of basic openness." +
+        "\n\n" +
+        ""
   },
   {
     cardNumber: 15,
