@@ -15,7 +15,7 @@ npm run serve
 npm run build
 ```
 
-then to actually push to production:
+OR if you want to build and push to production:
 ```
 $ ./deploy.sh
 ```
